@@ -1,0 +1,8 @@
+C:\Users\jefferson.patriota\source\repos\newProject\newProject\obj\Debug\newProject.csproj.AssemblyReference.cache
+C:\Users\jefferson.patriota\source\repos\newProject\newProject\obj\Debug\newProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\jefferson.patriota\source\repos\newProject\newProject\obj\Debug\newProject.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.patriota\source\repos\newProject\newProject\bin\Debug\newProject.exe.config
+C:\Users\jefferson.patriota\source\repos\newProject\newProject\bin\Debug\newProject.exe
+C:\Users\jefferson.patriota\source\repos\newProject\newProject\bin\Debug\newProject.pdb
+C:\Users\jefferson.patriota\source\repos\newProject\newProject\obj\Debug\newProject.exe
+C:\Users\jefferson.patriota\source\repos\newProject\newProject\obj\Debug\newProject.pdb
